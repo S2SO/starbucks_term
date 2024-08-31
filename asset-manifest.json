@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/starbucks_term/static/css/main.6f8a78db.css",
+    "main.js": "/starbucks_term/static/js/main.3f30377c.js",
+    "index.html": "/starbucks_term/index.html",
+    "main.6f8a78db.css.map": "/starbucks_term/static/css/main.6f8a78db.css.map",
+    "main.3f30377c.js.map": "/starbucks_term/static/js/main.3f30377c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f8a78db.css",
+    "static/js/main.3f30377c.js"
+  ]
+}
